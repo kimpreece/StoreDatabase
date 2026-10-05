@@ -1,0 +1,14 @@
+SELECT MIN(Price)
+FROM products;
+
+SELECT MAX(Price)
+FROM products;
+
+SELECT AVG(Price)
+FROM products;
+
+SELECT COUNT(*)
+FROM products;
+
+SELECT SUM(Stock)
+FROM products;
